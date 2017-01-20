@@ -2,8 +2,8 @@
 
 
 
-echo 'ttest0';
-echo 'test2';
+echo 'test';
+echo 'test';
 
 
 
