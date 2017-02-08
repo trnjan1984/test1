@@ -1,15 +1,11 @@
 <?php
+require_once('include/start.php');
+require_once('include/header.php');
 
-
-
-echo 'tes123t';
-echo 't123est2';
-echo 'te123st3';
-echo 'aaa';
-
-
-
-
+require_once('view/view.upload.php');
+require_once('view/view.list.php');
+require_once('include/footer.php');
+require_once('include/end.php');
 
 
 ?>
